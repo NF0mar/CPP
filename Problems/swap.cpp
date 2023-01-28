@@ -8,5 +8,6 @@ int main(){
     b= temp;
     std::cout <<a;
     std::cout <<b;
+    std::cout <<temp;
     return 0;
 }
